@@ -84,6 +84,8 @@ class CutWord:
         word_list = []  # 划分的结果
         while cur > 0:
             l = None
+            if max_len > cur:
+                max_len = cur
             for l in range(max_len, 0, -1):
                 if sentence[cur-l: cur] in self.word_set:
                     break
@@ -94,6 +96,7 @@ class CutWord:
 if __name__ == '__main__':
     import time
     sen = '在这一年中，中国的改革开放和现代化建设继续向前迈进。国民经济保持了“高增长、低通胀”的良好发展态势。农业生产再次获得好的收成，企业改革继续深化，人民生活进一步改善。对外经济技术合作与交流不断扩大。'
+    #sen = '如果没有'
     CW = CutWord()
 
     print "mm"
