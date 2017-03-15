@@ -63,7 +63,7 @@ class Doc:
         """
         for para in self.sentences:
             for sent in para:
-                words = init_static.s.seg(sent)
+                words = init_static.s.max_probability_seg(sent)
                 if words.__len__() == 0:
                     continue
                 flags = init_static.v.flag_detection(words)
@@ -101,7 +101,7 @@ class Doc:
         :param sentence:
         :return: 已分词列表
         """
-        words = init_static.s.seg(sentence)
+        words = init_static.s.max_probability_seg(sentence)
         flags = init_static.v.flag_detection(words)
         filter_words = []
         for i in range(len(words)):
