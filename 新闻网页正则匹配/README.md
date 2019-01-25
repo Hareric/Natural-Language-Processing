@@ -45,4 +45,4 @@
 （2）：选中“链接”文本框中的链接后自动填充至"新闻网址"文本框,点击获取
 
 
-  [1]: http://oevwfwaro.bkt.clouddn.com/%E6%96%B0%E9%97%BB%E6%AD%A3%E5%88%99%E5%8C%B9%E9%85%8D%20.png
+  [1]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/%E6%96%B0%E9%97%BB%E6%AD%A3%E5%88%99%E5%8C%B9%E9%85%8D%20.png
