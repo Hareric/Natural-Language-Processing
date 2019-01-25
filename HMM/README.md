@@ -118,11 +118,11 @@ def hmm(self, sentence_list):
 　　
 
 
-  [1]: http://oevwfwaro.bkt.clouddn.com/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%85%AC%E5%BC%8F.png
-  [2]: http://oevwfwaro.bkt.clouddn.com/HMM%E5%85%AC%E5%BC%8F.png
-  [3]: http://oevwfwaro.bkt.clouddn.com/%E9%83%A8%E5%88%86%E6%9C%80%E4%BC%98%E8%B7%AF%E5%BE%84.png
-  [4]: http://oevwfwaro.bkt.clouddn.com/vetebi_1.png
-  [5]: http://oevwfwaro.bkt.clouddn.com/Vetebi_2.jpg
-  [6]: http://oevwfwaro.bkt.clouddn.com/Vetebi_3.jpg
-  [7]: http://oevwfwaro.bkt.clouddn.com/Vetebi_4.jpg
+  [1]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/%E9%A9%AC%E5%B0%94%E5%8F%AF%E5%A4%AB%E5%85%AC%E5%BC%8F.png
+  [2]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/HMM%E5%85%AC%E5%BC%8F.png
+  [3]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/%E9%83%A8%E5%88%86%E6%9C%80%E4%BC%98%E8%B7%AF%E5%BE%84.png
+  [4]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/vetebi_1.png
+  [5]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/Vetebi_2.jpg
+  [6]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/Vetebi_3.jpg
+  [7]: https://raw.githubusercontent.com/Hareric/tuchuang/master/graph/Vetebi_4.jpg
   [8]: https://github.com/Hareric/Natural-Language-Processing/tree/master/HMM
